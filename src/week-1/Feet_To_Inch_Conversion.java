@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class FeetToInches {
+public class Feet_To_Inch_Conversion {
     public static void main(String[] args) {
         // Create a Scanner object to read user input
         Scanner scanner = new Scanner(System.in);

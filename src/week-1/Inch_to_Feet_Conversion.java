@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class InchToFeetConverter {
+public class Inch_to_Feet_Conversion {
     // Named constant for unit conversion
     private static final int INCHES_PER_FOOT = 12;
 
